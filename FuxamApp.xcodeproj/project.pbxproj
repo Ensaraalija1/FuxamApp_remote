@@ -11,6 +11,7 @@
 		8DE42E272A4043530094371D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DE42E262A4043530094371D /* ContentView.swift */; };
 		8DE42E292A4043560094371D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8DE42E282A4043560094371D /* Assets.xcassets */; };
 		8DE42E2C2A4043560094371D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8DE42E2B2A4043560094371D /* Preview Assets.xcassets */; };
+		8DE42E332A4048630094371D /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DE42E322A4048630094371D /* SecondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		8DE42E262A4043530094371D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		8DE42E282A4043560094371D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8DE42E2B2A4043560094371D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		8DE42E322A4048630094371D /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				8DE42E242A4043530094371D /* FuxamAppApp.swift */,
 				8DE42E262A4043530094371D /* ContentView.swift */,
+				8DE42E322A4048630094371D /* SecondView.swift */,
 				8DE42E282A4043560094371D /* Assets.xcassets */,
 				8DE42E2A2A4043560094371D /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8DE42E332A4048630094371D /* SecondView.swift in Sources */,
 				8DE42E272A4043530094371D /* ContentView.swift in Sources */,
 				8DE42E252A4043530094371D /* FuxamAppApp.swift in Sources */,
 			);
